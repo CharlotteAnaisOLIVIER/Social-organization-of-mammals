@@ -1,1 +1,1 @@
-# Social-organization-of-mammals
+# Database-Social-organization-of-primates
